@@ -1,3 +1,4 @@
+Option Explicit
 Sub RegExpTest()
 
 	Dim chkStr As String
